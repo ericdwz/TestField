@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+html, body {
+	background-color: grey;
+	color: white;
+	height: 100%;
+	margin: 0;
+}
+
+.snow {
+	position: absolute;
+	width: 5px;
+	height: 5px;
+}
+
+div {
+	background-size: 100%;
+	width: 100%;
+	min-height: 100%;
+	background-color: black;
+	position: relative;
+}
